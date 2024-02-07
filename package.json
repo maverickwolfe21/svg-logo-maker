@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/maverickwolfe21/svg-logo-maker/issues"
   },
-  "homepage": "https://github.com/maverickwolfe21/svg-logo-maker#readme"
+  "homepage": "https://github.com/maverickwolfe21/svg-logo-maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "inquirer-maxlength-input-prompt": "^1.0.2",
+    "svg.js": "^2.7.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
